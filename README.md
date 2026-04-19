@@ -678,6 +678,4 @@ Developer Machine
 
 <div align="center">
 
-Made with ❤️ for the JobAxle DevOps Practical Task
-
 </div>
